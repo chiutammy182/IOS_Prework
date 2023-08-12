@@ -16,7 +16,6 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![Kapture 2023-08-12 at 18 26 37](https://github.com/tammyc182/IOS_Prework/assets/80166088/287b1f72-3650-4238-b3a3-f5e9a5ae33ed)
 
